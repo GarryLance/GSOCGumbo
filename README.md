@@ -1,2 +1,2 @@
 # GSOCGumbo
-An easy way to import OCGumbo
+An easy way to import OCGumbo.
